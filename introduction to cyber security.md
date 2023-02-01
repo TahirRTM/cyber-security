@@ -1,3 +1,7 @@
 # introduction to cybersecurity
-### CIA troid
+### CIA triad
 **TAhir**
+## C stands for confidentiality
+## I stand for integrity
+## A stands for Availabilty
+
