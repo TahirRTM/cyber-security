@@ -9,6 +9,9 @@ A man-in-the-middle attack is a type of eavesdropping attack, where attackers in
 (hacker by using ip of any user can intercept the server and user pc and get some important data)
 ## DDOS
 DDoS (Distributed Denial of Service) is a category of malicious cyber-attacks that hackers or cybercriminals employ in order to make an online service, network resource or host machine unavailable to its intended users on the Internet
+#### DDOS attacks mainly works on botnet.
+#### Botnet may be any device.
+#### Hacker remotely use other devices to make requests and when these request bbecome greater than bandwidth then website crashes
 ## PASSWORD ATTACK
 A password attack refers to any of the various methods used to maliciously authenticate into password-protected accounts. These attacks are typically facilitated through the use of software that expedites cracking or guessing passwords.
 ## PREVENTING PASSWORD ATTACKS:
