@@ -11,13 +11,49 @@ A man-in-the-middle attack is a type of eavesdropping attack, where attackers in
 DDoS (Distributed Denial of Service) is a category of malicious cyber-attacks that hackers or cybercriminals employ in order to make an online service, network resource or host machine unavailable to its intended users on the Internet
 ## PASSWORD ATTACK
 A password attack refers to any of the various methods used to maliciously authenticate into password-protected accounts. These attacks are typically facilitated through the use of software that expedites cracking or guessing passwords.
+## PREVENTING PASSWORD ATTACKS:
+#### Multi-factor authentication.Using a physical token (like a Yubikey) or a personal device (like a mobile phone) to authenticate users ensures that passwords are not the sole gate to access.
+#### Remote access. Using a smart remote access platform like OneLogin means that individual websites are no longer the source of user trust. Instead, OneLogin ensures that the user's identity is confirmed, then logs them in.
+#### Biometrics. A malicious actor will find it very difficult to replicate your fingerprint or facial shape. Enabling biometric authentication turns your password into only one of several points of trust that a hacker needs to overcome.
 ## SQL INJECTION
 SQL injection (SQLi) is a cyberattack that injects malicious SQL code into an application, allowing the attacker to view or modify a database
+First, there is a software defect
+#### • That defect results in a security vulnerability (or just vulnerability)
+#### • A vulnerability is a weakness for certain types of attacks on the security of the application
+#### • One of the possible attack types is an SQL Injection
+#### • So, if you have a vulnerability that permits SQL Injection attacks, you have an SQL Injection vulnerability
+#### • Why are we talking about this before we know more about security?
+## COMPONENTS:
+The scope of SQL includes
+#### data query
+#### data manipulation (insert, update, and delete),
+#### data definition (schema creation and modification), 
+### data access control.
 # CIA triad
 Confidentiality, integrity, and availability are the three letters upon which CIA triad stands. The CIA Triad is a common prototype that constructs the basis for the development of security systems. They are used to find vulnerabilities and methods to create solutions
 **C stands for confidentiality**
 **I stand for integrity**
 **A stands for Availabilty**
+The CIA model describes the three important goals of cybersecurity.
+## CONFIDENTIALITY
+The C stands for
+confidentiality. Cybersecurity requires privacy in data and information. Certain people, devices,
+or processes should be permitted or restricted from seeing data, files, and items, like username,
+password combinations, medical records, etc. Confidentiality is concerned with viewing of data
+or information because if the wrong people see data or information they are not authorized,
+many problems could arise.
+## INTEGRITY:
+The I in the CIA model stands for integrity. Cybersecurity requires us to feel safe that data
+transmitted, processed, and stored has not been changed from its original form either
+accidentally or maliciously. For example, if one bit of a message is change, the whole message
+could change. Also, the whole message could be corrupted or unreadable.
+## AVAILABILITY:
+For the last letter A, it stands for availability. Availability guarantees that with all the
+cybersecurity measures in place for dealing with hardware, software, people, processes and
+more, users who are authorized to do their job should be able to do so. It requires that authorized
+users should be able to access the resources they need to do their job with easy while ensuring
+that the system have full tolerance and load balancing in the event of cybersecurity incident or
+disaster.
 # NIST FRAMEWORKS
 **NIST**
 is the National Institute of Standards and Technology at the U.S. Department of Commerce. The NIST Cybersecurity Framework helps businesses of all sizes better understand, manage, and reduce their cybersecurity risk and protect their networks and data.
